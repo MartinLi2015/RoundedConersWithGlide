@@ -1,5 +1,8 @@
 # RoundedConersWithGlide
 Rounded Coners With Glide
+
+<img src="http://i.stack.imgur.com/LOIip.png"  alt="" />
+
 # About
   You can learn how to rounded corners with this Glide.
   
