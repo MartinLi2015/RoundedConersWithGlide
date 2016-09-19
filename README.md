@@ -1,7 +1,7 @@
 # RoundedConersWithGlide
 Rounded Coners With Glide
 # About
-  you can learn how to rounded corners with this Glide.
+  You can learn how to rounded corners with this Glide.
   
   Also visit my post in my blog: **[The developer world is yours](http://thedeveloperworldisyours.com/android/rounded-corners-with-glide/#sthash.zMah6gXw.dpbs)**
   Libraries
